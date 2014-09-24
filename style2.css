@@ -1,0 +1,39 @@
+.header {
+    background-color: purple;
+    background-image: url(http://www.biihairsalon.com/wp-content/uploads/2012/08/Salon_Banner.jpg);
+    height: 350px;
+    background-size: cover;
+    background-position: 0px 5%;
+}
+
+.container {
+	text-align: center;
+	max-width: 800px;
+	margin: auto;
+}
+
+.left-column {
+	display: inline-block;
+	min-height: 200px;
+	background-color: white;
+	width:15%;
+	vertical-align: top;
+	position: absolute;
+	left: 15px;
+	font-family: Verdana;
+
+}
+
+.right-column {
+	display: inline-block;
+	min-height: 1000px;
+	background-color: white;
+	width: 54%;
+	vertical-align: top;
+	font-family: Verdana;
+
+}
+
+h4 {
+	font-family: Verdana;
+}
